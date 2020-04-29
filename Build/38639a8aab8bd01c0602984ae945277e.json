@@ -1,0 +1,16 @@
+{
+"companyName": "Parachute Studios Ltd",
+"productName": "Precor Web",
+"productVersion": "0.1",
+"dataUrl": "5f9ff8735918478dd86cc9b1b1dc7342.unityweb",
+"wasmCodeUrl": "8c7a15f75b1859bc468ec642356f3345.unityweb",
+"wasmFrameworkUrl": "42b9f10f8e3f25fc9512bb314c5055d8.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.4f1"
+}
