@@ -1,0 +1,16 @@
+{
+"companyName": "Parachute Studios Ltd",
+"productName": "Precor Connected Gym Experience",
+"productVersion": "0.1",
+"dataUrl": "4b5ddcf8c2dc0d18f94524fdb0ce0c55.unityweb",
+"wasmCodeUrl": "2d9df3c1bf1f61ea19ff696e333cfc36.unityweb",
+"wasmFrameworkUrl": "aca0ab1bc12eb98169f8802908a09856.unityweb",
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.12f1"
+}
